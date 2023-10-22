@@ -63,3 +63,43 @@ border: 2PX solid black;
 
 
 }
+
+.canvas{
+display: flex;
+float: right;
+}
+
+.EduArte{
+display: flex;
+float: right;
+}
+
+.opleiding{
+display: flex;
+float: right;
+}
+
+.begeleiding{
+display: flex;
+float: right;
+}
+
+.opleiding{
+display: flex;
+float: right;
+}
+
+.BSA{
+display: flex;
+float: right;
+}
+
+.software{
+display: flex;
+float: right;
+}
+
+.examenplan{
+display: flex;
+float: right;
+}
